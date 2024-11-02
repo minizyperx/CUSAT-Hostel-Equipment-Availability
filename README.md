@@ -7,7 +7,6 @@ The given project is based on HTML, CSS, and JS.
 
 ### Team Members:
 - **Sumit Raj** - Cochin University College of Engineering Kuttanad
-- **C P M Ashir** - Cochin University College of Engineering Kuttanad
 
 ## Project Description
 This project focuses on hostel equipment availability, allowing students to borrow available products from seniors.
@@ -62,4 +61,3 @@ It shows the review and rating of the product.
 
 ## Team Contribution
 1. **Sumit Raj**: Project idea originator.
-2. **C P M Ashir**: Responsible for the complete HTML and CSS implementation.
