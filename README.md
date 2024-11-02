@@ -58,6 +58,7 @@ It shows the review and rating of the product.
 ## Video
 *The video shows the product availability. If a product is unavailable, it needs to be returned, after which users can leave reviews and ratings about the product owner.*  
 <video controls src="Recording 2024-11-02 202538.mp4" title="Hostel equipment availability"></video>
+https://drive.google.com/file/d/17Mv1slBd-QxnYN5iK0vvROLaqjs_BQDz/view?usp=drive_link
 
 ## Team Contribution
 1. **Sumit Raj**: Project idea originator.
