@@ -1,4 +1,4 @@
-# Cusat Hostel Equipment Availability
+# Cusat Hostel Equipment Availability - FAALTU
 
 ## Basic Details
 The given project is based on HTML, CSS, and JS.
