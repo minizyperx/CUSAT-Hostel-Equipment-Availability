@@ -1,3 +1,4 @@
+https://minizyperx.github.io/CUSAT-Hostel-Equipment-Availability/
 # Cusat Hostel Equipment Availability
 
 ## Basic Details
